@@ -1,0 +1,25 @@
+{
+  "name": "oev3-dao-backend",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hairo0o/oev3-dao-backend.git"
+  },
+  "author": "hairo0o",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hairo0o/oev3-dao-backend/issues"
+  },
+  "homepage": "https://github.com/hairo0o/oev3-dao-backend#readme",
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^2.2.19",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.7"
+  }
+}
